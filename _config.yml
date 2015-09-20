@@ -1,0 +1,11 @@
+# Site settings
+title: GLUG DSCE
+email: glugdsce@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ We are an awesome group of GNU/Linux users from Dayananda Sagar College of Engineering.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.glugdsce.com" # the base hostname & protocol for your site
+github_username:  glugdsce
+
+# Build settings
+markdown: kramdown
